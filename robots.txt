@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://gmapsranker.github.io/aces-private-resort-21f36a75-0966378o/sitemap.xml
 Sitemap: https://aces-private-resort-21f36a75-0966378o.pages.dev/sitemap.xml
